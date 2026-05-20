@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Bia!
+# 👋 Olá, eu sou a Beatriz!
 
 🎓 Formada em **Matemática pela UNESP**  
 💼 Atualmente trabalho em uma empresa de consultoria  
@@ -31,9 +31,3 @@ Minha formação em Matemática me deu uma base sólida em lógica, análise e p
 - Ciência de dados
 - Automação
 - Soluções baseadas em dados
-
----
-
-## 📫 Contato
-
-Você pode me encontrar por aqui no GitHub ou pelo LinkedIn.
