@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Bia!
 
-<!--
-**beatrizmmrc/beatrizmmrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formada em **Matemática pela UNESP**  
+💼 Atualmente trabalho em uma empresa de consultoria  
+🤖 Atuo com **Inteligência Artificial**, utilizando **Python, LangGraph e LLMs**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Minha formação em Matemática me deu uma base sólida em lógica, análise e pensamento estruturado. Hoje, uso essa base para desenvolver soluções com Inteligência Artificial, criando fluxos, agentes e aplicações que ajudam a automatizar processos e apoiar decisões de negócio.
+
+---
+
+## 📚 Atualmente me aprofundando em
+
+- Desenvolvimento de agentes com LLMs
+- LangGraph e LangChain
+- Aplicações com IA generativa
+- RAG e memória em agentes
+- Automação de fluxos inteligentes
+- Análise e tratamento de dados com Python
+
+---
+
+## 💡 Interesses
+
+- Inteligência Artificial aplicada a negócios
+- Agentes inteligentes
+- Engenharia de prompts
+- Ciência de dados
+- Automação
+- Soluções baseadas em dados
+
+---
+
+## 📫 Contato
+
+Você pode me encontrar por aqui no GitHub ou pelo LinkedIn.
